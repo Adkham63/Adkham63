@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **FullStack JavaScript (the Odin Project)**
-- - 📫 How to reach me through email @karimovadham63@gmail.com
+- - 📫 How to reach me through email:@karimovadham63@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
