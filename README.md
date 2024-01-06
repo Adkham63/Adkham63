@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **FullStack JavaScript (the Odin Project)**
 - 📫 You can reach me through email: @karimovadham63@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">See my results:</h3>
 <p align="left">
 <a href="https://codepen.io/ljxdwyoz-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ljxdwyoz-the-bashful" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karimovadham63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karimovadham63" height="30" width="40" /></a>
