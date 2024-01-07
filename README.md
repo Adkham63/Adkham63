@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **FullStack JavaScript (the Odin Project)**
+- 🌱 I’m currently learning **FullStack JavaScript (Odin Project)**
 - 📫 You can reach me through email: karimovadham63@gmail.com
 
 <h3 align="left">See my results:</h3>
