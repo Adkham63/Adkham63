@@ -23,7 +23,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,github,figma,vscode=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,github,figma,vscode,gcp,=10" />
   </a>
 </p>
 
