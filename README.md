@@ -6,11 +6,6 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 🌍  I'm based in Tashkent
 * 🧠  I'm learning **FullStack JavaScript (Odin Project)**
 
-<h3 align="left">See my results:</h3>
-<p align="left">
-<a href="https://codepen.io/ljxdwyoz-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ljxdwyoz-the-bashful" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karimovadham63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karimovadham63" height="30" width="40" /></a>
-</p>
 
 ## LeetCode for life! 
 [![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=karimovadham63)](https://github.com/KnlnKS/leetcode-stats)
