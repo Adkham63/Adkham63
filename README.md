@@ -12,7 +12,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <a href="https://www.leetcode.com/karimovadham63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karimovadham63" height="30" width="40" /></a>
 </p>
 
-## LeetCode for life! ([profile](https://leetcode.com/karimovadham63))
+## LeetCode for life! 
 [![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=karimovadham63)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Skills
