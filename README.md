@@ -5,7 +5,6 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Tashkent
 * 🧠  I'm learning **FullStack JavaScript (Odin Project)**
-* ✉️  You can contact me at karimovadham63@gmail.com
 
 <h3 align="left">See my results:</h3>
 <p align="left">
