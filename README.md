@@ -3,9 +3,29 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-* 🌍  I'm based in Tashkent
-* 🧠  I'm learning **FullStack JavaScript (Odin Project)**
-* 💯  I'm creating new projects or templates for study purpose and satisfaction
+
+I'm based in Tashkent 🌍, and I'm passionate about FullStack JavaScript development. Currently, I'm on an exciting learning journey with the [Odin Project](https://www.theodinproject.com/) to master the art of building web applications.
+
+## 🧠 What I'm Up To
+
+- 🚀 Learning **FullStack JavaScript** through the Odin Project.
+- 💡 Creating new projects and templates for study purposes to keep my skills sharp and my mind refreshed.
+- 🤔 Solving at least one problem every day on [LeetCode](https://leetcode.com/) to understand the logical intricacies of using JavaScript.
+
+## 🌱 Current Focus
+
+Right now, my main focus is on becoming proficient in:
+
+- Frontend Development (HTML, CSS, JavaScript)
+- Backend Development (Node.js, Express)
+- Version Control (Git, GitHub)
+
+## 🚀 Projects
+
+Check out some of my latest projects on my profile
+
+
+Thanks for stopping by! 😊 Let's code something amazing together!
 
 
 ## LeetCode for life! 
