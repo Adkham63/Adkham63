@@ -4,7 +4,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-I'm based in Tashkent 🌍, and I'm passionate about FullStack JavaScript development. Currently, I'm on an exciting learning journey with the [Odin Project](https://www.theodinproject.com/) to master the art of building web applications.
+I'm based in Tashkent 🌍 and currently, I'm on an exciting learning journey with the [Odin Project](https://www.theodinproject.com/) to master the art of building web applications.
 
 ## 🧠 What I'm Up To
 
