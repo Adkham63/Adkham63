@@ -5,6 +5,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Tashkent
 * 🧠  I'm learning **FullStack JavaScript (Odin Project)**
+* 💯  I'm creating new projects or templates for study purpose and satisfaction
 
 
 ## LeetCode for life! 
