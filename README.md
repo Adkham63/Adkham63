@@ -38,7 +38,7 @@ Thanks for stopping by! 😊 Let's code something amazing together!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,github,figma,vscode,gcp,codepen,nodejs,sass,netlify,react,=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,github,figma,vscode,gcp,codepen,nodejs,sass,netlify,react,git,=10" />
   </a>
 </p>
 
