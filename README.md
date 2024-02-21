@@ -16,8 +16,8 @@ I'm based in Tashkent 🌍 and currently, I'm on an exciting learning journey wi
 
 Right now, my main focus is on becoming proficient in:
 
-- Frontend Development (HTML, CSS, JavaScript)
-- Backend Development (Node.js, Express)
+- Frontend Development (HTML, CSS, JavaScript, React)
+- Backend Development (Node.js, Next.js)
 - Version Control (Git, GitHub)
 
 ## 🚀 Projects
@@ -31,18 +31,20 @@ Thanks for stopping by! 😊 Let's code something amazing together!
 ## LeetCode for life! 
 [![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=karimovadham63)](https://github.com/KnlnKS/leetcode-stats)
 
-### Skills
+### Skills and Technologies🛠:
 
 
-## 🛠️ Technologies and Tools I use:
+## Currently Working On:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,github,figma,vscode,gcp,codepen,nodejs,sass,netlify,react,git,vite,=10" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,sass,netlify)](https://skillicons.dev)
 
-<br>
+## Tools I Have Been Using So Far:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,github,vscode,bootstrap,npm,)](https://skillicons.dev)
+
+## Some of the Tools I Have Prior Experience With:
+
+[![My Skills](https://skillicons.dev/icons?i=figma,gcp,)](https://skillicons.dev)
 
 
 <b>My GitHub Status</b>
