@@ -36,7 +36,7 @@ Thanks for stopping by! 😊 Let's code something amazing together!
 
 ## Currently Working On:
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,sass,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,sass,netlify,vercel,)](https://skillicons.dev)
 
 ## Tools I Have Been Using So Far:
 
