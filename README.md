@@ -27,16 +27,12 @@ Check out some of my latest projects on my profile
 
 Thanks for stopping by! 😊 Let's code something amazing together!
 
-
-## LeetCode for life! 
-[![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=karimovadham63)](https://github.com/KnlnKS/leetcode-stats)
-
 ### Skills and Technologies🛠:
 
 
 ## Currently Working On:
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,sass,netlify,vercel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,sass,netlify,vercel,mongodb,)](https://skillicons.dev)
 
 ## Tools I Have Been Using So Far:
 
