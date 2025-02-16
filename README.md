@@ -36,7 +36,7 @@ Thanks for stopping by! 😊 Let's code something amazing together!
 
 ## Tools I Have Been Using So Far:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,github,vscode,bootstrap,npm,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,github,vscode,bootstrap,npm,fastapi,aws,)](https://skillicons.dev)
 
 ## Some of the Tools I Have Prior Experience With:
 
